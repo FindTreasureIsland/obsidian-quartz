@@ -860,7 +860,7 @@ description: Does things
 
 # 错误 - 未闭合引号
 name: my-skill
-description: "Does things
+description: "Does things"
 
 # 正确
 ---
